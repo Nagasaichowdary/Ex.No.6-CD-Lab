@@ -1,7 +1,7 @@
-# Ex.No:6
-# IMPLEMENTATION OF THE BACK END OF THE COMPILER 
+# NAME : Popuri Aditya Naga Sai
 ## Register Number: 212223110036
-## Date:
+## Date: 25/05/2026
+# Ex.No:6 IMPLEMENTATION OF THE BACK END OF THE COMPILER 
 ## AIM:
 To write a program to implement the back end of the compiler.
 ## ALGORITHM:
